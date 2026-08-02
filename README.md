@@ -1,1 +1,1 @@
-# python-javoblar
+Ushbu repositoryda python darslardagi kodlar jamlangan.
